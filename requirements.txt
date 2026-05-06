@@ -1,1 +1,9 @@
-wheel==0.45.1
+pandas
+numpy
+requests
+geopandas
+shapely
+rasterio
+matplotlib
+folium
+jupyterlab
