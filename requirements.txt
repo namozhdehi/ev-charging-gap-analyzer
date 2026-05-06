@@ -7,3 +7,5 @@ rasterio
 matplotlib
 folium
 jupyterlab
+contextily
+rioxarray
