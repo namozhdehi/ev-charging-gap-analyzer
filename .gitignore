@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# QGIS temporary/project files
+*.qgz~
+*.aux.xml
+
+# Large raster/data outputs
+data/raw/
+outputs/
+
+# Python build files
+build/
+dist/
+*.egg-info/*.tif
+*.tiff
+*.tif
+*.tiff
