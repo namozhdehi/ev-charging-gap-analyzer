@@ -360,7 +360,26 @@ __pycache__/
 </pre>
 
 <hr>
+<h2>Reusable Python Toolkit</h2>
 
+<p>
+This repository includes a lightweight Python toolkit named <code>ev_access_toolkit</code>.
+The toolkit separates reusable geospatial logic from the notebook narrative and supports a more maintainable geospatial engineering workflow.
+</p>
+
+<p>
+The toolkit includes modules for:
+</p>
+
+<ul>
+  <li>NREL API data acquisition</li>
+  <li>EV accessibility buffer generation</li>
+  <li>Underserved-area detection</li>
+  <li>DEM raster validation and merging</li>
+  <li>Slope derivation</li>
+  <li>Terrain classification</li>
+  <li>Interactive web map creation</li>
+</ul>
 <h2>Author</h2>
 
 <p>
