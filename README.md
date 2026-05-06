@@ -2,10 +2,6 @@
 
 <h2>Terrain-Aware EV Accessibility Analysis Using Open-Source GIS Tools</h2>
 
-<p>
-  <strong>Author:</strong> Nahid Mozhdehi
-</p>
-
 <hr>
 
 <h2>Project Overview</h2>
