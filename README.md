@@ -366,7 +366,3 @@ __pycache__/
 <p>
 <strong>Nahid Mozhdehi</strong>
 </p>
-
-<p>
-This project was developed as a geospatial engineering portfolio project focused on open-source GIS, terrain-aware accessibility analysis, and reproducible infrastructure planning workflows.
-</p>
